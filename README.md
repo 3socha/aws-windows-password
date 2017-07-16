@@ -1,10 +1,14 @@
-# [AWS Windows のパスワード](https://horo17.github.io/aws-windows-password/)
+# AWS Windows のパスワード
 
 ## 第29回シェル芸勉強会 大阪サテライトLT
 ## 2017/7/1
 ## so
 
 >>>
+
+- [スライド](https://horo17.github.io/aws-windows-password/)
+
+---
 
 ## `$ whoami`
 
@@ -82,10 +86,10 @@ $ aws ec2 get-password-data \
 
 ## シェル芸を使った方が安全
 
-- 何やってるか、(わかる人には) わかりやすい
+- 何やってるか、わかる人にはわかりやすい
 - 安心
 
->>>
+---
 
 ## 参考
 
